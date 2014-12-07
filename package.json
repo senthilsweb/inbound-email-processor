@@ -1,0 +1,14 @@
+{
+  "name": "inbound-email-processor",
+  "subdomain": "senthilsweb-inbound-email-processor",
+  "version": "0.0.0-2",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "imap": "^0.8.14",
+    "mail-notifier": "^0.2.3",
+    "mailparser": "^0.4.6",
+    "mongodb": "^1.4.23"
+  }
+}
