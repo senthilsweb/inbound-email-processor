@@ -1,8 +1,8 @@
 {
     "name": "Senthilnathan",
-    "email": "senthilnathank@vmokshagroup.com",
-    "username": "senthilsweb@gmail.com",
-    "password": "Power@1234",
+    "email": "<your-email>",
+    "username": "<your-email-user-name>",
+    "password": "<your-email-password>",
     "imap": {
         "host": "imap.gmail.com",
         "port": 993,
